@@ -1,7 +1,13 @@
-#ifndef FEIGEMAINWINDOW_H
+﻿#ifndef FEIGEMAINWINDOW_H
 #define FEIGEMAINWINDOW_H
 
 #include <QMainWindow>
+#include <QPushButton>
+#include <QLabel>
+#include <QLineEdit>
+#include <QTextEdit>
+#include <QFile>
+
 
 class FeigeMainWindow : public QMainWindow
 {
